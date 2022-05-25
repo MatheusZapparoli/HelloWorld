@@ -23,7 +23,7 @@
     },
     {
       "firstname":"Marlies",
-      "children":[
+      "Data":[
         {
           "firstname":"Birgit",
           "children":[
@@ -54,7 +54,7 @@
         },
         {
           "firstname":"Heidi",
-          "children":[
+          "Data":[
             {
               "firstname":"Kirsten"
             },
